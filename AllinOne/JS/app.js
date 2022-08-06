@@ -455,6 +455,7 @@ function showContextMenu (event , PictureLink = null , BuyLink = null) {
         print.style.display = 'none';
         copyLink.style.display = 'none';
     }
+    print.style.display = 'none';
     contextMenu.style.display = 'flex';
     contextMenuWidth = contextMenu.offsetWidth;
     contextMenuHeight = contextMenu.offsetHeight;
