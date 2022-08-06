@@ -4,6 +4,10 @@
   - You can create few account and save it into browser localstorage.
   - You can delete every account you want ! _(Actually this option is incredible)_
   - In admin panel you can **add/remove** or **edit** products.
+  - Search in products and find every thing you want.
+  - Real buy link for real use.
+  - Custom context menu.
+  - Easy print !
 ---
 - **Products Options**
 1. **Title**
