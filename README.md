@@ -7,6 +7,7 @@
   - Search in products and find every thing you want.
   - Real buy link for real use.
   - Custom context menu.
+  - Custom Preload.
   - Easy print !
 ---
 - **Products Options**
