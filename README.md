@@ -39,4 +39,4 @@
 - [Twitter](https://twitter.com/ixsalimo)
 - [Instagram](https://www.instagram.com/ixsalimo)
 
-##### Created with :heart: by [Ali Mousavi](https://github.com/ixsalimo/)
+##### Created with :heart: by [Ali Mousavi](https://ixsalimo.com)
