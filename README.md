@@ -22,6 +22,15 @@ Simple full front-end store made by pure JavaScript.
 | Buy Link       | `string` | `true`   | `""` *(empty string)* |
 | Price          | `number` | `true`   | `null`                |
 
+## Admin Panel
+
+To login as an admin, enter this username & password:
+
+| Name     | Value      |
+| :------- | :--------- |
+| Username | `admin`    |
+| Password | `12345678` |
+
 ## Authors
 
 - [@ixsalimo](https://github.com/ixsalimo)
