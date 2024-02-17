@@ -36,7 +36,7 @@
   - Username: ```admin```
   - Password: ```12345678```
 ## Social Media
-- [Twitter](https://twitter.com/ixsalimo)
+- [Twitter](https://x.com/ixsalimo)
 - [Instagram](https://www.instagram.com/ixsalimo)
 
 ##### Created with :heart: by [Ali Mousavi](https://ixsalimo.com)
